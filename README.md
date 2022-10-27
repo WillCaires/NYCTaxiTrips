@@ -7,7 +7,7 @@ A partir dos dados da base NYC Taxi Trips foram aplicadas tecnicas de ingestão,
  •	SQL Server Management Studio
  •	Microsoft Power BI
  •	Microsoft Power Automate
- 
+ • Azure Management Store
  
 # Recursos utilizados no Azure:
  •  Data Factory - Para ingestão dos dados\
