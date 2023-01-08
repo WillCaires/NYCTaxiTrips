@@ -24,7 +24,7 @@ dbutils.fs.mount(
 
 # COMMAND ----------
 
-jdbcUrl = 'jdbc:sqlserver://testeatento.database.windows.net:1433;database=dbtesteatento;user=admwill@testeatento;password={605948@Will};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;'
+jdbcUrl = 'jdbc:sqlserver://testeatento.database.windows.net:1433;database=dbtesteatento;user=admwill@testeatento;password={***********};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;'
 
 # Ler dados do SQL para um dataframe
 # dataframe = spark.read
